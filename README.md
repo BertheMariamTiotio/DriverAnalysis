@@ -10,7 +10,7 @@ Cette plateforme Full-Stack contrôle les
 accélérations et les freinages, les marches au
 ralenti, les excès de vitesse et, dans certains
 cas, les surrégimes (tours excessifs par
-minute) et ‘utilisation du régulateur de
+minute) et utilisation du régulateur de
 vitesse. Un score sera attribué aux
 conducteurs selon leur comportement de
-conduite.
+conduite. 
